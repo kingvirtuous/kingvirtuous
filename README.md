@@ -1,6 +1,6 @@
 ### Hi, I'm King Virtuous 👋
 
- B.Tech Data Science student at Federal University of   Technology, Akure (FUTA)  
+ B.Tech Data Science student at Federal University of   Technology, Akure (FUTA), Nigeria. 
  Mobile Developer  
  Exploring AI/ML and Data World.
 
